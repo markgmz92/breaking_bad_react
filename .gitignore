@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+#formating 
+.eslintrc
+.prettierrc
+
 # production
 /build
 
