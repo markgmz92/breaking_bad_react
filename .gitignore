@@ -11,7 +11,7 @@
 #formating 
 .eslintrc
 .prettierrc
-
+.eslintcache
 # production
 /build
 
